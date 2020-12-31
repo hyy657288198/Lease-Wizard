@@ -1,0 +1,29 @@
+/**
+ * --------------------------------------------------------------------------
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * --------------------------------------------------------------------------
+ */
+#sendBox {
+    width: 700px;
+}
+
+#emailBox{
+    width: 300px;
+}
+
+#sendTitle {
+    float:left
+}
+
+#closeButton{
+    background-color: white;
+    color: black;
+    font-size: 150%;
+}
+
+.emailContent {
+    font-size: 120%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+}

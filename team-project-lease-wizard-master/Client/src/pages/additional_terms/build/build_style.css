@@ -1,0 +1,67 @@
+/**
+ * --------------------------------------------------------------------------
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * --------------------------------------------------------------------------
+ */
+.toLeft{
+    float: left;
+    margin: 20px;
+}
+
+.build_subtitle {
+    float: left;
+    width: 200px;
+}
+.toCenter {
+    display: flex;
+    justify-content: center
+}
+
+.chevronRightInBuild {
+
+    color: #006689;
+    vertical-align: middle;
+    margin-left: 60px;
+}
+.buildPakgType {
+    font-weight: 500;
+    font-size: calc(10px + 1vmin)
+}
+.popup {
+	position: absolute;
+    left: 10%;
+    right: 10%;
+	top: 30%;
+	overflow: auto;
+	z-index: 200;
+	border: 2px solid #666;
+	background: white;
+	padding: 20px;
+	margin: 10px 10px;
+}
+.hide{
+	display: none;
+}
+.CustonAgreementContent {
+    font-size: 120%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+}
+.toRight{
+    float: right;
+}
+.cancel {
+    background-color: white;
+}
+
+#whiteCancel {
+    background-color:#EEEEEE;
+    color: #006689;
+}
+#AddCustomAgreement{
+    width: 700px;
+}
+#agreementBox{
+    width: 50px;
+}

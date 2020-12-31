@@ -1,0 +1,68 @@
+/**
+ * --------------------------------------------------------------------------
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * -------------------------------------------------------------s-------------
+ */
+.tableSize{
+    width: 100%;
+    height: 100%;
+}
+
+.rowName {
+    color: #006689;
+}
+
+.rowStyle{
+    width: 100%;
+}
+
+.contentSize{
+    height: 500px
+}
+.cellStyle{
+    text-align:center;
+    vertical-align: middle;
+}
+#tableHeader{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+.sendBox {
+    width: 700px;
+}
+
+#addTitle {
+    float:left
+}
+
+/* #closeButton{
+    background-color: white;
+    color: black;
+    font-size: 150%;
+} */
+
+.emailContent {
+    font-size: 120%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+}
+#deleteButton{
+    background-color: red;
+}
+#addAttrBox{
+    width: 10, 
+}
+#tag{
+    position: relative;
+    width: 160px;
+    height: 35px;
+    background-color: #EEEEEE;
+    color: black;
+    border: 1px solid #006689;
+    /* font-size: 12px; */
+    border-radius: 5%;
+    text-align:center;
+    display: block;
+}

@@ -1,0 +1,1 @@
+# This is a database folder for JSON file

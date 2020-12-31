@@ -1,0 +1,13 @@
+/**
+ * --------------------------------------------------------------------------
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * --------------------------------------------------------------------------
+ */
+#cal_important{
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+#cal_subtitle{
+    color : #006689
+}
